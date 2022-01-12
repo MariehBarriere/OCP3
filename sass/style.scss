@@ -1,0 +1,15 @@
+//import variables and mixins
+@import "./utils/variables";
+@import "./utils/functions";
+@import "./utils/mixins";
+@import "./utils/extensions";
+
+//import base
+@import "./base/typography";
+
+//import external libs
+@import "./reset/normalize";
+
+//import style
+@import "./layout/footer";
+@import "main";

@@ -1,2 +1,11 @@
-# OCP3
- Projet 3 ohmyfood
+{
+	"folders": [
+		{
+			"path": "../../P2_BARRIEREMarieHelene_code"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
